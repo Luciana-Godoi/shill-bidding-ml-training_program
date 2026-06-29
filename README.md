@@ -99,8 +99,6 @@ figures/
 results/
     Performance metrics and model outputs
 
-docs/
-    Methodological details
 ```
 
 
